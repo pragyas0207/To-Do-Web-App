@@ -1,6 +1,6 @@
 # To-Do Web App
 
-A Simple To-Do list web application built using HTML, CSS and JavaScript
+A Simple To-Do list web application built using **HTML**, **CSS** and **JavaScript**
 
 ## Features
 - Add new Tasks
@@ -15,4 +15,4 @@ A Simple To-Do list web application built using HTML, CSS and JavaScript
 
 # How to Run
 - Download or clone this repository
-- Open "main.html" in any browser
+- Open **main.html** in any browser
