@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do App</title>
+    <link href="main.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="to-do-app">
+            <h2>To-Do List <img src="https://cdn-icons-png.flaticon.com/512/10550/10550857.png"></h2>   
+            <!--height of img not specified...just leav it as is...so that later when we format it'll be equal size with text-->
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add a new Task">
+                <button onclick="addTask()">Add</button>
+            </div>
+            <ul id="list-box">
+                <!-- <li class="checked">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li> -->
+            </ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!-- Why are we adding that cross in .js and not here? 
+ Bcoz it has to be added whenever a new task is added -->
