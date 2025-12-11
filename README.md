@@ -1,18 +1,18 @@
-#To-Do Web App
+# To-Do Web App
 
 A Simple To-Do list web application built using HTML, CSS and JavaScript
 
-#Features
+## Features
 - Add new Tasks
 - Mark Tasks as Completed
 - Delete Taks
 - Saves tasks using local storage
 
-#Technologies Used
+# Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-#How to Run
+# How to Run
 - Download or clone this repository
 - Open "main.html" in any browser
